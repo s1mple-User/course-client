@@ -1,4 +1,4 @@
-export const API_URL = `https://server-course-gv0n.onrender.com/api`;
+export const API_URL = `https://server-course-2.onrender.com/api`;
 
 export const getAuthUrl = (url: string) => `/auth/${url}`;
 export const getMailUrl = (url: string) => `/mail/${url}`;
